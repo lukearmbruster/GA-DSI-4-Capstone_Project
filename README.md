@@ -1,7 +1,11 @@
 # GA-DSI-4-Capstone_Project
+
 Project Idea 1:
+
 input: daily rmb exchange rates, western media headlines (yahoo finance, Google news archive)
+
 output: predict the future exchange rates and recommend news articles based on a readers’ views on China (positive or pessimistic)
+
 methods: lstm neural network, sentiment analysis
 
 Project Idea 2:
