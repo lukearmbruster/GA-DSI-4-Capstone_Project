@@ -12,7 +12,10 @@ Goals:
 
 2. outline proposed methods and models
 
-  -Analzye 
+  -Gather post features from fake and mainstream news sources as identified by published sources. 
+  ids, message,  Facebook Graph API  
+  
+  -Analzye approximately two months before and after
 
 3. define risks and assumptions
 
