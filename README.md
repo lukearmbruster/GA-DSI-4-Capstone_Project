@@ -12,17 +12,23 @@ Goals:
 
 2. outline proposed methods and models
 
+  -Analzye 
+
 3. define risks and assumptions
 
 4. revise initial goals & success criteria
 
 5. create local database
+  Complete
 
 6. Describe data cleaning/munging techniques
+  
 
 7. Create a data dictionary
+  -?
 
 8. Perform & summarize EDA
+  -
 
 
 
