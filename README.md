@@ -4,11 +4,11 @@ January 24, 2017
 
 Goals:
 
-1. articulate specific aim
+1. Articulate specific aim
 
-My aim in this project is to identify what factors contribute to high user engagement as measured by
-Facebook reactions among mainstream and fake news sources. Once the factors are idenfitied, build a model
-that predicts whether a news source is fake or mainstream. 
+  My aim in this project is to identify what factors contribute to high user engagement as measured by
+  Facebook reactions among mainstream and fake news sources. Once the factors are idenfitied, build a model
+  that predicts whether a news source is fake or mainstream. 
 
 2. outline proposed methods and models
 
