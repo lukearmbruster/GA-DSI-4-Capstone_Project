@@ -45,7 +45,8 @@ Goals:
 
 5. Summary of EDA
 
-  -143,444 posts collected (71,382 fake and 72,062 mainstream)
+  -274,618 posts analyzed  (41% fake, 32% mainstream, 20% conspiracy, 7% satire)
+    + The top 13% of posting sites (4 fake sites and 6 mainstream sites) make up 53% of the dataset
   
   -Mainstream pages generate at least 20 million more total reactions each day of the week 
    over the study period compared to fake news. Most user engagement falls between 10 am 
