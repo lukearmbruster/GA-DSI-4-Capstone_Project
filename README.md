@@ -45,32 +45,46 @@ Goals:
 
 5. Summary of EDA
 
-  -274,618 posts analyzed  (41% fake, 32% mainstream, 20% conspiracy, 7% satire)
-    + The top 13% of posting sites (4 fake sites and 6 mainstream sites) make up 53% of the dataset
-  
-  -Mainstream pages generate at least 20 million more total reactions each day of the week 
-   over the study period compared to fake news. Most user engagement falls between 10 am 
-   and 5 pm on fake news pages and between 8 am and 5 pm on mainstream pages
-  
-  - Mainstream news pages post a similar number of posts as fake news pages each hour of 
-    every day and week day. A similar hourly and daily posting pattern is observed among 
-    mainstream and fake news pages. Saturday shows the lowest number of posts with each day further from Saturday showing
-    gradually more posts. 7 am and 5 pm peak posting time for fake news and mainstream
-    news both before and after the election. A similar daily post count pattern is 
-    observed before and after the election. The number of postings was similar for 
-    both before and after the election for mainstream and fake news pages, respectively.
-    The number of postings was also similar between mainstream and fake news.
-  
-  -The most common type of post among news pages includes a link, followed by photo
-   and video.
-  
-  - DCGazette had nearly twice as many posts as the nearest highest fake news poster.
-    Fox news is getting by far the highest number of total number of reactions.
-    DonaldTrumpNews.Co gets the highest number among reactions among fake news.
+  -274,618 posts analyzed  (32% mainstream, 41% fake, 20% conspiracy, 7% satire) between August 26, 2016
+   to January 19, 2017 (includes 73 days before and after the election). 
+    + The top 10 of posting sites (6 mainstream sites and 4 fake sites) make up 37% of the dataset
+    + 7,000 more fake news posting (mostly due to DcGazette, ThreePercenterNation, and DHeadlins) occur before the 
+      election compared to the period following the election.
+      A relatively slight uptick in the number of posts for mainstream after the election compared to before 
+      the election (mostly due to yahoonews, usatoday and CBS News).
+      There was no noticeable change in the number of posts from conspiracy (although govtslaves did post about 
+      1000 more posts before the election compared to after with a post of around 700) and satire pages
+      (although goingwunderground did post about 400 more posts before the election compared to after with a 
+      post of around 200). 
+    + There is a similar pattern in the number of posts by hour of the day across all types of 
+     news sources with a noticable increase including U.S. working hours (4 AM to 7 PM).
+    + Proportion of total posts throughout the week remains uniform with the 
+     exception of a noticable dip on Saturday and Sunday for all types. 
+     types
+     
    
-   -The highest poster among mainstream is yahoo news, followed closely by usatoday.
-    The highest poster among fake news   is by far DcGazette. 
+   -Analyzed a total of 624,793,478 reactions 
+    + The top 10 sites with the most reactions make up 75% of the total reactions (6 mainstream, 1 fake, 2 conspiracy, 1  
+      satire) (mainstream sites recieved over 300 million more reactions than all other types)
+    + Mainstream reacions peak between 6 AM and 5 PM, fake between 10 AM to 6 PM,
+      conspiracy most uniformly distributed but with a noticable spike at 4 AM to 5 AM, satire between 5 AM to 12 PM
+    + At least a 2% reduction in reactions Friday to Monday for Mainstream pages. The remaining types
+      do not show as large of a reduction throughout the week, although the next most noticeable reductions
+      occur Saturday and Sunday for satire pages. Fake and conspiracy pages appear not to show much of a change
+      in the number of reactions throughout the week. 
+    + Based on an evaluation of the median, mainstream maintains a relatively high level of uniform engagement over the day,
+      and satire has a relatively high level of sustained engagement in the morning with a shorter period in the evening. 
+    + All types had at least 2 million more reactions after the election. The largest gain
+      occured for mainstream (90 million) followed by fake (12 million), satire (2 million) and 
+      conspiracy (2 million)
+     + 
+      
+   
     
+    
+    
+    
+
     
 
 
