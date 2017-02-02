@@ -6,12 +6,11 @@ Goals:
 
 1. Articulate specific aim
 
-  My aim in this project is to identify what factors contribute to high user engagement 
-  on mainstream and fake news pages as measured by Facebook reactions. Once the factors 
-  are identified, build a model that predicts whether a news source is fake or mainstream, 
-  and build another model that determines which topics are likely to be most popular among
-  followers. 
-
+  My aim is to identify what factors uniquely identify the category of a shared Facebook news posting. 
+  The project includes an investigation of mainstream, fake, and conspiracy news source. Once the factors are 
+  identified once an investigation is complete, a model is built that predicts the source category of a 
+  shared Facebook news post.
+  
 2. Outline proposed methods and models
 
   -Via the Facebook Graph API, download post features of fake and mainstream news sources as 
